@@ -1,4 +1,5 @@
 test_set, train_set: read the X_test.txt, X_train.txt, respectively
+
  +test_lable, train_lable: read the Y_test.txt, Y_train.txt, respectively
  +subject_names: the unique subject number in both train and test
  +features: the exact activity names for the expriment
